@@ -1,0 +1,52 @@
+>> C19MainCode
+Enter number of individuals for simulation: 100
+Day: 1
+Number of healthy people: 96
+Number of asymptomatic people: 3
+Nnumber of sick people: 1
+Number of recovered people: 0
+Day: 2
+Number of healthy people: 95
+Number of asymptomatic people: 4
+Nnumber of sick people: 1
+Number of recovered people: 0
+Day: 3
+Number of healthy people: 89
+Number of asymptomatic people: 7
+Nnumber of sick people: 3
+Number of recovered people: 1
+Day: 4
+Number of healthy people: 79
+Number of asymptomatic people: 16
+Nnumber of sick people: 4
+Number of recovered people: 1
+Day: 5
+Number of healthy people: 57
+Number of asymptomatic people: 32
+Nnumber of sick people: 10
+Number of recovered people: 1
+Day: 6
+Number of healthy people: 34
+Number of asymptomatic people: 45
+Nnumber of sick people: 17
+Number of recovered people: 4
+Day: 7
+Number of healthy people: 10
+Number of asymptomatic people: 47
+Nnumber of sick people: 38
+Number of recovered people: 5
+Day: 8
+Number of healthy people: 0
+Number of asymptomatic people: 34
+Nnumber of sick people: 55
+Number of recovered people: 11
+Day: 9
+Number of healthy people: 0
+Number of asymptomatic people: 10
+Nnumber of sick people: 69
+Number of recovered people: 21
+Day: 10
+Number of healthy people: 0
+Number of asymptomatic people: 0
+Nnumber of sick people: 57
+Number of recovered people: 43
